@@ -1,7 +1,22 @@
-# AI-enabled-Platform
+# Smart Governance Insights Platform
+
+---
+
+## Project Objectives
+- Customizable Views  
+- Performance Tracking  
+- Accessibility Tools  
+- Natural Language Interaction  
+- Adaptive Responses  
+- Easy Access to Services  
+- Real-Time Data Visualization  
+
+---
 
 ## Project Description
-AI-enabled digital dashboard that supports transparent governance, accountable service delivery, and inclusive access to domain information through intuitive visualizations and conversational intelligence.
+The **Smart Governance Insights Platform** is an AI-enabled digital dashboard designed to support **transparent governance, accountable service delivery, and inclusive access to domain information**.  
+
+The platform provides **interactive dashboards, real-time data visualization, and an AI-powered chatbot** that allows users to retrieve information using natural language queries.
 
 ---
 
@@ -56,5 +71,7 @@ AI-enabled digital dashboard that supports transparent governance, accountable s
 [Download Demo Video](Project%20Video/DemoVideo.mp4)
 
 > **Note:**  
-> To download the video, click **Download Demo Video**.  
-> Then click **View Raw** or **Download** from the GitHub page to save the video.
+> GitHub does not play videos directly inside the README file.  
+> Click **Download Demo Video**, then select **View Raw** or **Download** from the GitHub page to watch or save the video.
+
+---

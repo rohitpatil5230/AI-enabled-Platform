@@ -1,7 +1,7 @@
 # AI-enabled-Platform
 
 ## Project Description
-AI-enabled platform that provides dashboard services and an AI chatbot for ERP system queries.
+AI-enabled digital dashboard that supports transparent governance, accountable service delivery, and inclusive access to domain information through intuitive visualizations and conversational intelligence.
 
 ---
 

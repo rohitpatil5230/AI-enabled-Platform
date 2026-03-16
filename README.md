@@ -2,23 +2,21 @@
 
 ---
 
-## Project Objectives
-- Customizable Views  
-- Performance Tracking  
-- Accessibility Tools  
-- Natural Language Interaction  
-- Adaptive Responses  
-- Easy Access to Services  
-- Real-Time Data Visualization  
-
----
-
 ## Project Description
 The **Smart Governance Insights Platform** is an AI-enabled digital dashboard designed to support **transparent governance, accountable service delivery, and inclusive access to domain information**.  
 
 The platform provides **interactive dashboards, real-time data visualization, and an AI-powered chatbot** that allows users to retrieve information using natural language queries.
 
 ---
+
+## Project Objectives
+- To improve transparency in Public Governance through interactive, real‑time dashboards.
+- To easy Access to Services with real-time Data Visualization
+- To strengthen accountability by making service commitments, timelines, and performance metrics visible and explainable.
+- To build institutional trust through clarity, transparency, and consistency in how information is delivered.
+
+---
+
 
 ## Screenshots
 
